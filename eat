@@ -1,4 +1,4 @@
-local Heal = "Berry"
+local Heal = "Bloodfruit"
 local bind = 'q'
 -- Settings ^
 
